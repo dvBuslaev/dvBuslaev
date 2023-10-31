@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Student at School 21, android developer from Russia 🇷🇺</h3>
+<h3 align="center">Student at School 21, android developer from Russia </h3>
 Main tools im working with:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)        <img padding-right="300px" src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="drawing" width="100"/>           <img src="https://javascopes.com/wp-content/uploads/2021/08/85d9e8c4-18iK__Qt8kTDXRUdW4eqBug.jpeg" alt="drawing" width="70"/>
