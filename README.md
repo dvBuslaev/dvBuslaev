@@ -5,11 +5,12 @@
 ### :woman_technologist: About Me :
 I am a Andorid developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: Currently working on my pet projects.
-- 🏫 Student at School <img padding-right="300px" src="https://21-school.ru/assets/images/header/logo.svg" alt="drawing" width="25"/>
+- 🏫 Student at School <img padding-right="300px" src="https://21-school.ru/assets/images/header/logo.svg" alt="School 21" width="25"/>
 
 - :seedling: Trying to be well-familiar with android development.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dvbuslaev/) and read tech articles. 
+  
 
 
 ---
