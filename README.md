@@ -16,9 +16,9 @@ I am a Andorid developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 Main tools im working with:
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)        <img padding-right="300px" src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="drawing" width="100"/>           <img src="https://javascopes.com/wp-content/uploads/2021/08/85d9e8c4-18iK__Qt8kTDXRUdW4eqBug.jpeg" alt="drawing" width="70"/>   <span style="color:green;font-weight:700;font-size:20px">
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)        <img padding-right="300px" src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="drawing" width="100"/>           <img src="https://javascopes.com/wp-content/uploads/2021/08/85d9e8c4-18iK__Qt8kTDXRUdW4eqBug.jpeg" alt="drawing" width="70"/>  + <span style="color:green;font-weight:700;font-size:50px"> 
     Room
-</span> <img padding-right="300px" src="https://static10.tgstat.ru/channels/_0/b8/b860706decb2c4b7d940b956c6945dd2.jpg" alt="drawing" width="25"/>
+</span> <img padding-right="300px" src="https://static10.tgstat.ru/channels/_0/b8/b860706decb2c4b7d940b956c6945dd2.jpg" alt="drawing" width="25"/> +     <img padding-right="300px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/329014/images/7904895/retrofit.jpg" alt="drawing" width="100"/>
 
 Tools i previusly worked with:
 
