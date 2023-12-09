@@ -7,18 +7,17 @@ I am a Andorid developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: Currently working on my pet projects.
 - 🏫 Student at School <img padding-right="300px" src="https://21-school.ru/assets/images/header/logo.svg" alt="School 21" width="25"/>
 
-- :seedling: Trying to be well-familiar with android development.
+- :seedling: Trying to be well-familiar with native android development.
 
-- :zap: In my free time, I solve problems on [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dvbuslaev/) and read tech articles. 
+- :zap:  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dvbuslaev/)
   
 
 
 ---
 Main tools im working with:
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)        <img padding-right="300px" src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="drawing" width="100"/>           <img src="https://javascopes.com/wp-content/uploads/2021/08/85d9e8c4-18iK__Qt8kTDXRUdW4eqBug.jpeg" alt="drawing" width="70"/>  + <span style="color:green;font-weight:700;font-size:50px"> 
-    Room
-</span> <img padding-right="300px" src="https://static10.tgstat.ru/channels/_0/b8/b860706decb2c4b7d940b956c6945dd2.jpg" alt="drawing" width="25"/> +     <img padding-right="300px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/329014/images/7904895/retrofit.jpg" alt="drawing" width="100"/>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)       ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)        <img padding-right="300px" src="https://raw.githubusercontent.com/InsertKoinIO/koin/main/docs/img/koin_main_logo.png" alt="drawing" width="100"/>           <img src="https://eppleton.de/assets/rxbanner.jpg" alt="drawing" width="70">   <span style="color:green;font-weight:700;font-size:50px"> 
+        <img padding-right="300px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/329014/images/7904895/retrofit.jpg" alt="drawing" width="100"/>
 
 Tools i previusly worked with:
 
