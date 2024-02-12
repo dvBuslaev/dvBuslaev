@@ -4,10 +4,10 @@
 
 ### :woman_technologist: About Me :
 I am a Andorid developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Currently working on my pet projects.
+- :telescope: Currently looking for a product team to join.
 - 🏫 Student at School <img padding-right="300px" src="https://21-school.ru/assets/images/header/logo.svg" alt="School 21" width="25"/>
 
-- :seedling: Trying to be well-familiar with native android development.
+- :seedling: Someday i will write my own android OS.
 
 - :zap:  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/dvbuslaev/)
   
